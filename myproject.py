@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 def hello():
 
-    return "<h1 style='color:blue'>Demo réussie !</h1>"
+    return "<h1 style='color:blue'>Demo réussie V2!</h1>"
 
 
 if __name__ == "__main__":
